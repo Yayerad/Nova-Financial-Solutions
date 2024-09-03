@@ -1,0 +1,13 @@
+README.md
+setup.py
+findpackages.egg-info/PKG-INFO
+findpackages.egg-info/SOURCES.txt
+findpackages.egg-info/dependency_links.txt
+findpackages.egg-info/top_level.txt
+notebooks/__init__.py
+scripts/__init__.py
+scripts/data_loading.py
+scripts/descriptive_stats.py
+scripts/text_analysis.py
+scripts/time_series_analysis.py
+src/__init__.py
