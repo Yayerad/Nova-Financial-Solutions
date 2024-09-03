@@ -1,7 +1,1 @@
-__pycache__/
-*.py[cod]
-.vscode/
-*.ipynb_checkpoints
-.env
-data/
-venv/
+
